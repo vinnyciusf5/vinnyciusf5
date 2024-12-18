@@ -2,9 +2,8 @@
   <h1>Olá, eu sou o Marcus</h1>
 </div>
 <div align="center">
-  🎓Graduando em Eng. da Computação <br>
+  🎓Graduado em Eng. da Computação <br>
   🏡Vitória da Conquista - Ba <br>
-  💻Desenvolvedor Júnior <br>
 </div>
 <br>
 <div align="center">
